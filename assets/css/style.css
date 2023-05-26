@@ -83,7 +83,7 @@ main {
 
 #mainbox {
   width: 400px;
-  height: 2000px;
+  height: 1300px;
   padding: 0;
   margin: 0;
   border: 0;
@@ -92,6 +92,7 @@ main {
   color: black;
 }
 
+/* ELEMENTI NEL MAIN - ARTICLE */
 #mainbox i {
   color: grey;
   font-size: large;
@@ -110,8 +111,8 @@ main {
 }
 
 .mainboxul {
-  width: 300px;
-  padding: 50px;
+  width: 200px;
+  padding: 20px;
   margin: 0;
   border: 0;
   margin: 0;
@@ -134,12 +135,37 @@ main {
 .span5 {
   color: #ab2073;
 }
-/* ELEMENTI NEL MAIN - ARTICLE */
-
 /* TABELLE */
-
+.table {
+  width: 300px;
+  padding: 50px;
+  margin: 0;
+  border: 0;
+  margin: 0;
+  font-size: 20px;
+}
 /* FORM */
 
 /* ELEMENTI NELL' ASIDE */
 
 /* FOOTER */
+footer {
+  width: 400px;
+  height: 200px;
+  padding: 0;
+  padding-top: 1000px;
+  margin-top: 0;
+  border: 0;
+  margin: 0;
+}
+
+#footer {
+  width: 400px;
+  height: 200px;
+  padding: 0;
+  padding-bottom: 100px;
+  border: 0;
+  margin: 0;
+  background-color: #015466;
+  color: white;
+}
