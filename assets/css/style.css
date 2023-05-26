@@ -71,7 +71,69 @@ header {
 }
 
 /* MAIN */
+main {
+  width: 400px;
+  height: 400px;
+  padding: 0;
+  padding-top: 100px;
+  margin-top: px;
+  border: 0;
+  margin: 0;
+}
 
+#mainbox {
+  width: 400px;
+  height: 2000px;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  margin: 0;
+  background-color: white;
+  color: black;
+}
+
+#mainbox i {
+  color: grey;
+  font-size: large;
+}
+
+#mainbox p {
+  font-size: 20px;
+}
+
+.span1 {
+  color: #ab2073;
+}
+
+#mainbox {
+  font-size: 10px;
+}
+
+.mainboxul {
+  width: 300px;
+  padding: 50px;
+  margin: 0;
+  border: 0;
+  margin: 0;
+  font-size: 20px;
+}
+
+.span2 {
+  color: rgb(62, 59, 59);
+}
+
+.mainboxol {
+  width: 300px;
+  padding: 50px;
+  margin: 0;
+  border: 0;
+  margin: 0;
+  font-size: 20px;
+}
+
+.span5 {
+  color: #ab2073;
+}
 /* ELEMENTI NEL MAIN - ARTICLE */
 
 /* TABELLE */
